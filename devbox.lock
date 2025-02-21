@@ -1,0 +1,69 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "aider-chat@0.74.1": {
+      "last_modified": "2025-02-16T09:28:34Z",
+      "resolved": "github:NixOS/nixpkgs/b1b43d32be000928cc71250ed77f4a0a5f2bc23a#aider-chat",
+      "source": "devbox-search",
+      "version": "0.74.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/hv6q2hvj44vxsar29xqjki1myzyjmmzx-python3.12-aider-chat-0.74.1",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/ray6vzmkdzyfw9bxpvvx8brhj1c3qyng-python3.12-aider-chat-0.74.1-dist"
+            }
+          ],
+          "store_path": "/nix/store/hv6q2hvj44vxsar29xqjki1myzyjmmzx-python3.12-aider-chat-0.74.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/d29rlxhljhsb6lv0p1v0kps89bycg68h-python3.12-aider-chat-0.74.1",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/70fqrx9c59i3j35bsds0a3699y96jqyd-python3.12-aider-chat-0.74.1-dist"
+            }
+          ],
+          "store_path": "/nix/store/d29rlxhljhsb6lv0p1v0kps89bycg68h-python3.12-aider-chat-0.74.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/53nswx5ijhklg093iqd46czi2jkyz1s7-python3.12-aider-chat-0.74.1",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/3w4j9gkfais82h3yrwr3kvp3gv27xs7x-python3.12-aider-chat-0.74.1-dist"
+            }
+          ],
+          "store_path": "/nix/store/53nswx5ijhklg093iqd46czi2jkyz1s7-python3.12-aider-chat-0.74.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/b1i33lc08m5zgxx60v6xghs7a55zi16k-python3.12-aider-chat-0.74.1",
+              "default": true
+            },
+            {
+              "name": "dist",
+              "path": "/nix/store/8h4jb5qgyar2la8jqxcdyvap6z60vsip-python3.12-aider-chat-0.74.1-dist"
+            }
+          ],
+          "store_path": "/nix/store/b1i33lc08m5zgxx60v6xghs7a55zi16k-python3.12-aider-chat-0.74.1"
+        }
+      }
+    }
+  }
+}
